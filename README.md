@@ -7,7 +7,7 @@
 
 ```java
 
-pulic Integer getMaxValue(List valueList){
+pulic static Integer getMaxValue(List valueList){
     return  null;
 }
 

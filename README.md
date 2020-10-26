@@ -8,9 +8,13 @@
 
 从一个List中取得最大值
 
+```java
+
 pulic Integer getMaxValue(List valueList){
     return  null;
 }
+
+```
 
 提示：
 * 这是一个公用函数，请考虑这个函数的安全性，健壮性，在小规模数据量下的性能

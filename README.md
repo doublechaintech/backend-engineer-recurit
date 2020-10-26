@@ -24,7 +24,7 @@ pulic Integer getMaxValue(List valueList){
 * 本考题看似简单，但是考到的知识点非常多，我们需要基础知识扎实严谨的软件工程师；
 * 请在一天内完成本项目，不同水平的程序员做到的程度会不一样；
 * 您可以fork本项目，在您自己的github账号的本页面完成，您的答案属于您；
-* 完成之后，请使用您在github的账号邮箱（可能您需要把该邮箱设置为公开)发送通知到 zhangxilai#doublechaitech.com，通知中请包含你的github repo地址和您的答案(方便我查看）
+* 完成之后，请使用您在github的账号邮箱（可能您需要把该邮箱设置为公开)发送通知到 zhangxilai#doublechaintech.com，通知中请包含你的github repo地址和您的答案(方便我查看）
 
 
 ```

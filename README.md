@@ -19,6 +19,7 @@ pulic Integer getMaxValue(List valueList){
 要求：
 
 * Java 8可编译通过并运行
+* 把您这样做的原因写下来
 
 提示：
 * 这是一个公用函数，请考虑这个函数的安全性，健壮性，在小规模数据量下10000条的性能；
@@ -31,5 +32,9 @@ pulic Integer getMaxValue(List valueList){
 
 ```
 //在您自己的READ.md中，答案写到下面的位置
+
+
+//这样做的原因写到下面
+
 
 ```

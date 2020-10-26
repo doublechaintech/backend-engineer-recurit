@@ -29,9 +29,12 @@ pulic Integer getMaxValue(List valueList){
 
 ```
 //在您自己的READ.md中，答案写到下面的位置
-
+public Integer getMaxValue(List valueList){
+    return  (Integer) Collections.max(valueList);
+}
 
 //这样做的原因写到下面
-
+collections类是集合的工具类，里面有大量的方法可以操作集合，Collections.max()方法可以获取集合中的最大值；
+此公用函数有局限性，它的数据类型是包装类Integer，所以只针对int类型，对其他数据类型不适用。
 
 ```

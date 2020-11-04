@@ -19,7 +19,7 @@ pulic static Integer getMaxValue(List valueList){
 * Java 8可编译通过并运行
 * 把您这样做的原因写下来
 * 请在**一个小时内完成**本函数，不同水平的程序员做到的程度会不一样，这很正常；
-* 完成之后，请使用您在github的账号邮箱（可能您需要把该邮箱设置为公开)发送通知到 zhangxilai#doublechaintech.com，通知中请包含你的github repo地址和您的答案(方便我查看）
+* 完成之后，请使用您在github的账号邮箱（可能您需要把该邮箱设置为公开)发送答案到 zhangxilai#doublechaintech.com，请查看本文**邮件要求**
 * 不要使用Collections.max等函数来实现
 
 ## 提示：
@@ -32,7 +32,7 @@ pulic static Integer getMaxValue(List valueList){
 ## 邮件要求
 
 * 邮件标题中格式如下  渠道-Java工程师-姓名
-* 函数实现直接写到邮件正文中，**不要**使用附件来写答案，也**不要**发送链接，以便于在移动环境中查看
+* 函数实现**直接**写到邮件正文中，**不要**使用附件来写答案，也**不要**发送链接，以便于在移动环境中查看
 * 您这么做的理由
 
 ```

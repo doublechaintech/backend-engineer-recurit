@@ -36,10 +36,19 @@ pulic static Integer getMaxValue(List valueList){
 * 您这么做的理由
 
 ```
-//在您自己的READ.md中，答案写到下面的位置
+//在您自己的邮件中，答案写到下面的位置
 
 
-//这样做的原因写到下面
+pulic static Integer getMaxValue(List valueList){
+    //你的代码
+}
+
+
+
+//这样做的原因是：
+1. 因为...所以...
+
+
 
 
 ```

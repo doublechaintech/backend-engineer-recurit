@@ -15,9 +15,9 @@ pulic static Integer getMaxValue(List valueList){
 
 ## 要求：
 
+* **严谨**! **严谨**! **严谨**! 设想这段代码需要在航天器上运行
 * Java 8可编译通过并运行
 * 把您这样做的原因写下来
-* **严谨**! **严谨**! **严谨**! 设想这段代码需要在航天器上运行
 * 请在**一个小时内完成**本函数，不同水平的程序员做到的程度会不一样，这很正常；
 * 完成之后，请使用您在github的账号邮箱（可能您需要把该邮箱设置为公开)发送通知到 zhangxilai#doublechaintech.com，通知中请包含你的github repo地址和您的答案(方便我查看）
 * 不要使用Collections.max等函数来实现
